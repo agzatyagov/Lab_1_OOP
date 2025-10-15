@@ -1,4 +1,5 @@
-﻿#include <iostream>
+
+#include <iostream>
 #include <string>
 #include "replacinfunc.h"
 
@@ -27,3 +28,4 @@ int main() {
     return 0;
 
 }
+
