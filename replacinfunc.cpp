@@ -1,4 +1,3 @@
-
 #include "replacinfunc.h"
 #include <string>
 #include <iostream> 
@@ -25,4 +24,5 @@ string replacinfunc(const string& s, int num, char old_char, char new_char) {
     }
 
     return res;
+
 }
