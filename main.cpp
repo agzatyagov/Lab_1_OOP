@@ -1,5 +1,4 @@
-﻿
-#include <iostream>
+﻿#include <iostream>
 #include <string>
 #include "replacinfunc.h"
 
@@ -26,4 +25,5 @@ int main() {
     cout << "text after replace: " << output << endl;
 
     return 0;
+
 }
